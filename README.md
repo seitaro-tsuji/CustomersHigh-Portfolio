@@ -5,18 +5,18 @@
 
 ## スクリーンショット
 ### タイトル画面
-![タイトル画面](ScreenShots/タイトル画面.jpg)
+![タイトル画面](Screenshots/タイトル画面.jpg)
 
 ### 準備エリア
-![準備エリア1](ScreenShots/準備エリア1.png)
-![準備エリア2](ScreenShots/準備エリア2.png)
+![準備エリア1](Screenshots/準備エリア1.png)
+![準備エリア2](Screenshots/準備エリア2.png)
 
 ### メインステージ
-![メインステージ1](ScreenShots/メインステージ1.png)
-![メインステージ2](ScreenShots/メインステージ2.png)
+![メインステージ1](Screenshots/メインステージ1.png)
+![メインステージ2](Screenshots/メインステージ2.png)
 
 ### リザルト画面
-![リザルト画面](ScreenShots/リザルト画面.png)
+![リザルト画面](Screenshots/リザルト画面.png)
 
 ## 実行方法
 実行ファイルは[GitHub Releases](https://github.com/seitaro-tsuji/CustomersHigh-Portfolio/releases/tag/v1.0.0)からダウンロードできます。
