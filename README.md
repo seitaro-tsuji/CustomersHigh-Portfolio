@@ -6,6 +6,15 @@
 ## スクリーンショット
 
 ## 実行方法
+実行ファイルは[GitHub Releases](https://github.com/seitaro-tsuji/CustomersHigh-Portfolio/releases/tag/v1.0.0)からダウンロードできます。
+
+### Windows版
+`Customers_High_Windows.zip`をダウンロードして展開し、
+`Customer's High.exe`を実行してください。
+
+### Android版
+`Customers_High_Android.apk`をダウンロードし、
+Android端末にインストールしてください。
 
 ## 使用技術
 - Unity 6
@@ -112,3 +121,12 @@
 - Dランク：0~1999
 
 ## ソースコード
+スクリプトの一覧は`Scripts`からご覧ください。
+
+### 準備エリアのランダム生成
+- [準備エリア区画の選択ルール](Scripts/Stage/StageSetting.cs)
+  - 選択する区画のTierの幅と種類(強化アイテムか特殊アクションか)をまとめたクラス`SectionSelectionRule`を実装しました。
+  - `SectionSelectionRule`のリストをインスペクタウィンドウから作成できるようにしました。
+
+- [準備エリア区画の選択・生成、メインステージの配置](Scripts/Stage/SectionGenerator.cs)
+  - 受け取った選択ルールリストのデータに従い、条件に合った区画を生成して配置します。
