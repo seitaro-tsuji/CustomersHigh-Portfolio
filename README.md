@@ -4,6 +4,19 @@
 ## プレイ動画
 
 ## スクリーンショット
+### タイトル画面
+![タイトル画面](ScreenShots/Title.jpg)
+
+### 準備エリア
+![準備エリア1](ScreenShots/PreparationArea1.jpg)
+![準備エリア2](ScreenShots/PreparationArea2.jpg)
+
+### メインステージ
+![メインステージ1](ScreenShots/MainStage1.jpg)
+![メインステージ2](ScreenShots/MainStage2.jpg)
+
+### リザルト画面
+![リザルト画面](ScreenShots/Result.jpg)
 
 ## 実行方法
 実行ファイルは[GitHub Releases](https://github.com/seitaro-tsuji/CustomersHigh-Portfolio/releases/tag/v1.0.0)からダウンロードできます。
