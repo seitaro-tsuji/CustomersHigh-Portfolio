@@ -6,6 +6,15 @@
 ## スクリーンショット
 
 ## 実行方法
+実行ファイルは[GitHub Releases](https://github.com/seitaro-tsuji/CustomersHigh-Portfolio/releases/tag/v1.0.0)からダウンロードできます。
+
+### Windows版
+`Customers_High_Windows.zip`をダウンロードして展開し、
+`Customer's High.exe`を実行してください。
+
+### Android版
+`Customers_High_Android.apk`をダウンロードし、
+Android端末にインストールしてください。
 
 ## 使用技術
 - Unity 6
@@ -112,3 +121,4 @@
 - Dランク：0~1999
 
 ## ソースコード
+`Scripts`からご覧ください。
