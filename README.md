@@ -121,4 +121,9 @@ Android端末にインストールしてください。
 - Dランク：0~1999
 
 ## ソースコード
-`Scripts`からご覧ください。
+スクリプトの一覧は`Scripts`からご覧ください。
+
+### 準備エリアのランダム生成
+- [準備エリア区画の選択ルール](Scripts/Stage/StageSetting.cs)
+- [準備エリア区画の選択・生成、メインステージの配置](Scripts/Stage/SectionGenerator.cs)
+
